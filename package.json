@@ -4,7 +4,7 @@
   "description": "daywise todo list",
   "main": "todo.js",
   "scripts": {
-    "start": "todo.js"
+    "start": "node todo.js"
   },
   "author": "vivek",
   "license": "ISC",
