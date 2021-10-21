@@ -4,8 +4,8 @@
   "description": "daywise todo list",
   "main": "todo.js",
   "scripts": {
-    "start": "node todo.js"
-},
+    "start": "todo.js"
+  },
   "author": "vivek",
   "license": "ISC",
   "dependencies": {
@@ -14,5 +14,6 @@
     "express": "^4.17.1",
     "mongoose": "^6.0.11",
     "nodemon": "^2.0.14"
-  }
+  },
+  "devDependencies": {}
 }
