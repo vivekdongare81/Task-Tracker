@@ -4,8 +4,8 @@
   "description": "daywise todo list",
   "main": "todo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "node todo.js"
+},
   "author": "vivek",
   "license": "ISC",
   "dependencies": {
